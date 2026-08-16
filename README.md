@@ -1,53 +1,61 @@
-# Hi there, I'm Ayush Singh 👋
+# Hi, I'm Ayush Singh 👋
 
-**Full-Stack Product Engineer | Next.js & React Native | Node.js Architecture**
+**Product Engineer | Full-Stack Web & Mobile Architecture**
 
-I’m a developer who loves building fast, scalable applications from the ground up. Whether I'm designing complex data pipelines and RESTful APIs, or engineering mobile experiences that drive real organic growth, I thrive on solving hard performance and architectural challenges.
+I build high-performance, user-centric web and mobile applications from scratch. My focus sits at the intersection of snappy frontend architecture, reliable Node.js/Go backends, and scalable cloud infrastructure on AWS.
 
 ---
 
-### 🚀 What I'm Up To
-- 💻 **Currently working on:** Building the **Shuru iOS app** from the ground up and engineering features to drive organic growth and scale Daily Active Users (DAU) across the platform. - 🧠 **Currently learning:** Deep diving into **Go (Golang)** (goroutines, channels, and schedulers) and mastering advanced SOLID design principles.
-- 🎯 **Recent wins:**
-  - Architected a custom Elasticsearch & MongoDB data pipeline crawling 30+ local services. - Integrated secure Razorpay subscription flows handling 75K+ in daily revenue. - Engineered 50+ optimized REST APIs that directly drove 200+ daily organic app downloads. - ⚡ **Fun fact:** I've solved 350+ DSA questions and earned 7+ competitive programming badges on LeetCode. ---
+### ⚡ What I'm Focused On
 
-### 🛠️ Tech Stack
+* 🚀 **Building Scalable Products:** Engineering core frontend architecture (Next.js, React Native) and backend services that handle real-world load and drive organic growth.
+* ☁️ **Infrastructure & Performance:** Managing deployment pipelines and server reliability on AWS (EC2, Auto Scaling, CodeDeploy, S3).
+* 🛠️ **Deepening Systems Knowledge:** Writing backend services in Go (concurrency, goroutines, and schedulers) and practicing Low-Level Design (LLD).
+* 🧩 **Algorithmic Problem Solving:** 350+ problems solved on LeetCode across data structures and algorithms.
 
-**Frontend & Mobile**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+---
 
-**Backend & Databases**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+### 🛠️ Tech & Tools
 
-**Languages & Tools**
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+**Frontend & Mobile**  
+`Next.js` • `React` • `React Native (Expo)` • `TypeScript` • `Tailwind CSS` • `Redux Toolkit` • `Zustand` • `TanStack Query`
+
+**Backend & Data**  
+`Node.js` • `Express.js` • `Go` • `MongoDB` • `Elasticsearch` • `REST APIs`
+
+**DevOps & Infrastructure**  
+`AWS (EC2, S3, CodeDeploy)` • `Git / GitHub` • `Yarn` • `Linux` • `Vercel`
 
 ---
 
 ### 📂 Featured Projects
 
-* **[Personal Kanban Board](https://github.com/Ayu360/Kanban):** A full-stack task management application featuring drag-and-drop workflows, utilizing Redux for global UI state, TanStack Query for data caching, and a Node.js/Express backend.
-* **[MovieMania](https://github.com/Ayu360/MovieMania):** A cross-platform mobile app built with React Native Expo, Zustand, and TanStack Query, utilizing file-based routing to dynamically fetch data from the OMDB API.
+* **[Personal Kanban Board](https://github.com/Ayu360/Kanban)**  
+  Full-stack workflow management tool built with Next.js, Redux, and TanStack Query for dynamic caching, backed by a Node.js/Express service.
+* **[MovieMania](https://github.com/Ayu360/MovieMania)**  
+  Cross-platform mobile client built using React Native (Expo) and Zustand for lean client-side state, integrating OMDB APIs with file-based routing.
 
 ---
 
-### 📫 Let's Connect
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayu360&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ayush's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayu360&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+</p>
+
+---
+
+### 📫 Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/ayushsinghsde/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:singhayush9410@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://leetcode.com/u/Ayu360/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
 </p>
